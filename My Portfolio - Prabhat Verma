@@ -1,0 +1,131 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://g3PfzqBjFs1WQT4:0H9B1OToBh1PCdW@localhost:33053/storage/emulated/0/Example%20.html
+Subject: My Portfolio - Prabhat Verma
+Date: Wed, 27 Aug 2025 19:24:34 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Wnp9DwooV0bga1EubzZ5ENljKAn8eHyhSClLVpU4Uh----"
+
+
+------MultipartBoundary--Wnp9DwooV0bga1EubzZ5ENljKAn8eHyhSClLVpU4Uh----
+Content-Type: text/html
+Content-ID: <frame-5AD0413C4AA5968F180061C2770F2747@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://g3PfzqBjFs1WQT4:0H9B1OToBh1PCdW@localhost:33053/storage/emulated/0/Example%20.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-a56c4bd0-1588-44dd-a949-a6c22b8e0694@mhtml.blink" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio - Prabhat Verma</title>
+  
+</head>
+<body>
+  <header>
+    <!-- Replace profile -->
+    <h1>Prabhat Verma</h1>
+    <p>Aspiring Software Engineer | Web Developer | Student</p>
+  </header>
+
+  <div class="container">
+    <!-- About -->
+    <section class="about">
+      <h2>About Me</h2>
+      <p>
+        Hello! I'm Prabhat, a Computer Science student passionate about coding, 
+        web development, and solving real-world problems. I enjoy learning new 
+        technologies and building projects that make life easier and smarter. 🚀
+      </p>
+    </section>
+
+    <!-- Skills -->
+    <section class="skills-section">
+      <h2>Skills</h2>
+      <div class="skills">
+        <div class="skill">HTML</div>
+        <div class="skill">CSS</div>
+        <div class="skill">JavaScript</div>
+        <div class="skill">Python</div>
+        <div class="skill">C++</div>
+        <div class="skill">SQL</div>
+      </div>
+    </section>
+
+    <!-- Projects -->
+    <section class="projects-section">
+      <h2>Projects</h2>
+      <div class="projects">
+        <div class="project">
+          <h3>🌱 Farmers Market App</h3>
+          <p>A mobile app that connects farmers directly with buyers, improving fair trade.</p>
+        </div>
+        <div class="project">
+          <h3>💻 Portfolio Website</h3>
+          <p>My personal portfolio website built using HTML, CSS, and responsive design.</p>
+        </div>
+        <div class="project">
+          <h3>📊 Data Analysis Project</h3>
+          <p>Analyzed real-world datasets using Python and visualized insights with charts.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="contact">
+      <h2>Contact Me</h2>
+      <a href="https://www.linkedin.com/in/prabhat-verma-888056290">LinkedIn</a>
+      <a href="https://github.com/prabhatverma9098/">GitHub</a>
+      <a href="http://g3PfzqBjFs1WQT4:0H9B1OToBh1PCdW@localhost:33053/storage/emulated/0/pv830672@gmail.com">Email</a>
+    </section>
+  </div>
+
+  <footer>
+    <p>© 2025 Prabhat Verma | Built with ❤ and Code</p>
+  </footer>
+
+</body></html>
+------MultipartBoundary--Wnp9DwooV0bga1EubzZ5ENljKAn8eHyhSClLVpU4Uh----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-a56c4bd0-1588-44dd-a949-a6c22b8e0694@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 0px; font-family: "Segoe UI", sans-serif; background: rgb(244, 246, 249); color: rgb(51, 51, 51); }
+
+header { text-align: center; background: linear-gradient(to right, rgb(106, 17, 203), rgb(37, 117, 252)); color: white; padding: 50px 20px; }
+
+header img { width: 150px; height: 150px; border-radius: 50%; border: 4px solid rgb(255, 255, 255); margin-bottom: 20px; }
+
+header h1 { font-size: 2.5rem; margin: 10px 0px; }
+
+header p { font-size: 1.2rem; margin: 5px 0px; }
+
+.container { width: 90%; max-width: 1100px; margin: 40px auto; }
+
+section { margin-bottom: 50px; }
+
+h2 { text-align: center; margin-bottom: 20px; color: rgb(37, 117, 252); }
+
+.about p { text-align: center; font-size: 1.1rem; line-height: 1.6; }
+
+.skills { display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; }
+
+.skill { background: rgb(255, 255, 255); padding: 15px 25px; border-radius: 25px; box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 6px; font-weight: bold; color: rgb(37, 117, 252); }
+
+.projects { display: grid; gap: 20px; }
+
+.project { background: rgb(255, 255, 255); padding: 20px; border-radius: 15px; box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 8px; transition: transform 0.3s; }
+
+.project:hover { transform: translateY(-5px); }
+
+.project h3 { color: rgb(106, 17, 203); margin-bottom: 10px; }
+
+.contact { text-align: center; }
+
+.contact a { display: inline-block; margin: 10px; padding: 10px 20px; border-radius: 25px; background: rgb(37, 117, 252); color: rgb(255, 255, 255); text-decoration: none; font-weight: bold; transition: 0.3s; }
+
+.contact a:hover { background: rgb(255, 221, 87); color: rgb(0, 0, 0); }
+
+footer { text-align: center; padding: 20px; background: rgb(34, 34, 34); color: rgb(187, 187, 187); margin-top: 40px; }
+------MultipartBoundary--Wnp9DwooV0bga1EubzZ5ENljKAn8eHyhSClLVpU4Uh------
